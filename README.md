@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 # OpenMiau-Minus
+# person who redesigned this client: tirumclone3314
 =======
 BASE client:
 ![Preview](/images/image2.png)
@@ -19,8 +20,9 @@ If you want to contribute to Miau-, feel free to open an issue or submit a pull 
 
 - Discord Developer
 - Discord: nocheat_lmao (thk nay stupid) ahihi
-- Discord: tirumclone3314 (thk nay bi gay)
+- Discord Owner's client: tirumclone3314 (thk nay bi gay)
 - Discord: tien1909 ( thk nay thich bi khac an nole len dai )
+
 - 
 # Miau-
 # Miau-
