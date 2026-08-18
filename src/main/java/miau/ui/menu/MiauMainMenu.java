@@ -427,7 +427,7 @@ public class MiauMainMenu extends GuiScreen {
       GlStateManager.translate(centerX, titleY, 0);
       GlStateManager.scale(titleScale, titleScale, 1.0f);
       GlStateManager.translate(-centerX, -titleY, 0);
-      fontLogo.drawCentered("Miau Minus Client", centerX + 1, titleY + 1, shadowColor);
+      fontLogo.drawCentered("Miau Minus", centerX + 1, titleY + 1, shadowColor);
       fontLogo.drawCentered("Miau Minus Client", centerX, titleY, color);
       GlStateManager.popMatrix();
 
