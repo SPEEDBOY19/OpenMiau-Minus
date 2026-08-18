@@ -17,6 +17,7 @@ AFTER FORK:
 If you want to contribute to Miau-, feel free to open an issue or submit a pull request in this repository.
 
 
+- Discord Developer
 - Discord: nocheat_lmao (thk nay stupid) ahihi
 - Discord: tirumclone3314 (thk nay bi gay)
 - Discord: tien1909 ( thk nay thich bi khac an nole len dai )
