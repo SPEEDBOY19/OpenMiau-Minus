@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 # OpenMiau-Minus
-# OpenMiau-Minus
 =======
 BASE client:
 ![Preview](/images/image2.png)
@@ -8,7 +7,7 @@ BASE client:
 
 AFTER FORK:
 
-![Preview](/images/theme.jpg)
+![Preview](/images/theme.png)
 
 **Miau Minus** is a cleaned-up project based on the **Project-Miau** base, created to continue improving, refining, and expanding the client.
 ## Contributing
