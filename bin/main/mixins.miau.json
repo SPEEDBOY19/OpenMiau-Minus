@@ -1,0 +1,29 @@
+{
+  "package": "${basePackage}.mixin",
+  "plugin": "${basePackage}.init.FMLLoadingPlugin",
+  "refmap": "mixins.${modid}.refmap.json",
+  "minVersion": "0.7",
+  "compatibilityLevel": "JAVA_8",
+  "priority": 10000,
+  "client": [
+    "MixinItemRenderer",
+    "MixinPlayerControllerMP",
+    "MixinGuiMultiplayer",
+    "MixinInventoryPlayer",
+    "IAccessorPlayerControllerMP",
+    "IAccessorS3EPacketTeams",
+    "MixinRenderEntityItem",
+    "MixinRenderItem",
+    "MixinBlockRendererDispatcher",
+    "MixinMathHelper",
+    "viaversion.MixinBlockLadder",
+    "viaversion.MixinBlockLilyPad",
+    "viaversion.MixinC0FPacketConfirmTransaction",
+    "viaversion.MixinEntityCollision",
+    "viaversion.MixinEntityLivingBaseMovement",
+    "viaversion.MixinNetHandlerPlayClient",
+    "viaversion.MixinNetworkManagerCompression",
+    "viaversion.MixinNetworkManager_5",
+    "viaversion.MixinS32PacketConfirmTransaction"
+  ]
+}

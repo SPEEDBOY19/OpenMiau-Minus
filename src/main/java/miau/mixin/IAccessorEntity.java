@@ -1,0 +1,28 @@
+package miau.mixin;
+
+import net.minecraft.entity.Entity;
+import net.minecraft.util.Vec3;
+import net.minecraftforge.fml.relauncher.Side;
+import net.minecraftforge.fml.relauncher.SideOnly;
+import org.spongepowered.asm.mixin.Mixin;
+import org.spongepowered.asm.mixin.gen.Accessor;
+import org.spongepowered.asm.mixin.gen.Invoker;
+
+@SideOnly(Side.CLIENT)
+@Mixin({Entity.class})
+public interface IAccessorEntity {
+  @Accessor
+  boolean getIsInWeb();
+
+  @Accessor("isInWeb")
+  void setIsInWeb(boolean isInWeb);
+
+  @Accessor
+  int getFire();
+
+  @Accessor
+  int getNextStepDistance();
+
+  @Invoker
+  Vec3 callGetVectorForRotation(float float1, float float2);
+}

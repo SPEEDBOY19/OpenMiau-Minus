@@ -1,0 +1,13 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "Miau Minus",
+    "version": "${version}",
+    "mcversion": "1.8.9",
+    "authorList": [
+      "ksyz",
+      "idle",
+      "project-miau"
+    ]
+  }
+]
