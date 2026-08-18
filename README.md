@@ -7,7 +7,7 @@ BASE client:
 
 AFTER FORK:
 
-![Preview](/images/theme.png)
+![Preview](/images/theme1.png)
 
 **Miau Minus** is a cleaned-up project based on the **Project-Miau** base, created to continue improving, refining, and expanding the client.
 ## Contributing
